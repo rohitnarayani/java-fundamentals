@@ -1,5 +1,5 @@
-package innerclass.local_innerclass;
-import innerclass.local_innerclass.Computer.Builder;
+package innerclass.static_innerclass;
+import innerclass.static_innerclass.Computer.Builder;
 
 public class ComputerTest {
     public static void main(String []args){

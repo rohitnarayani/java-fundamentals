@@ -1,4 +1,4 @@
-package innerclass.local_innerclass;
+package innerclass.static_innerclass;
 
 public class Computer {
 
