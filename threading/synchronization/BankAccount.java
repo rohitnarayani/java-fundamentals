@@ -15,7 +15,7 @@ public class BankAccount extends Thread{
         return this.balance;
     }
 
-    public void withdraw(double amount){
+    public synchronized void withdraw(double amount){
         if(amount<=0){
             System.out.println("Enter valid amount...");
             return;
